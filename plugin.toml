@@ -1,0 +1,11 @@
+# This is the plugin definition file for the "music_plugin" plugin.
+
+Name = "music_plugin"
+Description = "Example Music plugin"
+Author = ""
+Version = ""
+Website = ""
+Repository = ""
+License = ""
+
+
